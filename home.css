@@ -79,3 +79,13 @@ header,
   z-index: -1;
 }
 
+@media  (min-width: 768px) {
+.imageCard{
+  width:70%
+}
+}
+@media  (max-width: 768px) {
+  .imageCard{
+    width:100%
+  }
+  }
